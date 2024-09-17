@@ -21,6 +21,7 @@ This project implements a shoplifting detection system using computer vision and
 
 
 Watch the Output Demo:- 
+
 https://github.com/user-attachments/assets/0c5ebc9b-dea6-4715-bdc9-cc1eaf4bf97c
 
 
