@@ -19,8 +19,8 @@ This project implements a shoplifting detection system using computer vision and
 5. **Advanced Machine Learning Models**:
    The system employs state-of-the-art machine learning models for accurate detection. It uses a combination of feature extraction (MobileNetV3Large) and sequence modeling (GRU-based RNN) for video analysis, and YOLO (You Only Look Once) object detection for real-time stream processing.
 
-Below is the demo video of the output clip:-
-("assets/democlip.mp4")
+
+[Watch the demo video of the output clip :- ](assets/democlip.mp4)
 
 ## API Endpoints
 
