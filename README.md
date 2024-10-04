@@ -1,4 +1,4 @@
-# Shoplifting Detection System
+# iONu Shoplifting Detection Solution
 
 This project implements a shoplifting detection system using computer vision and machine learning techniques. It provides both video processing and live stream detection capabilities.
 
